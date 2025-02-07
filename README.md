@@ -1,7 +1,7 @@
 # Transport-Rental-Service
 
 ## Objective
-
+The objective of this project is to develop a seamless and user-friendly transport rental service that allows users to browse, book, and manage various transportation options efficiently. The platform aims to enhance accessibility, improve booking experiences, and streamline transport management for both users and administrators.
 ## Overview
 The **Transport Rental Service** is a web-based platform that allows users to book different types of transport, such as cars, bikes, and other vehicles, for rent. The system provides an intuitive interface for users to explore available transport options, make bookings, and manage their profiles efficiently.
 
