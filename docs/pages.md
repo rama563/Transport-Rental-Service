@@ -10,7 +10,7 @@
 - Shows available vehicles with filtering and search options.
 
 ## Transport Details
-- Displays detailed information about a selected transport, including price, availability, and feature.
+- Displays detailed information about a selected transport, including price, availability, and features.
 ## Booking Page
 - Enables users to book a vehicle and proceed with payment.
 
