@@ -15,7 +15,7 @@
 - Enables users to book a vehicle and proceed with payment.
 
 ## Profile
-- Shows user details, booking history, and profile settings.
+- Shows user detail, booking histories, and profile settings.
 
 ## Contact Us
 - Provides a form for users to submit inquiries and support requests.
